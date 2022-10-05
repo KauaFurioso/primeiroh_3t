@@ -1,7 +1,7 @@
-# Terceiro Trimestre
+#  Terceiro Trimestre
 
 ## Identificação
-Kauã F.F.F.
+Alexandre Gomes Sakai - Nr. 01
 
 ## Conteúdo
 HTML, CSS e javascript
