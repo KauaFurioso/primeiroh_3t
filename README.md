@@ -1,7 +1,7 @@
 #  Terceiro Trimestre
 
 ## Identificação
-Alexandre Gomes Sakai - Nr. 01
+kaua furioso   numero:12
 
 ## Conteúdo
 HTML, CSS e javascript
