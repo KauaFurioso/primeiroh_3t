@@ -37,6 +37,11 @@ function total(){
     let juros = document.getElementById("ju").value;
     let mes = document.getElementById("mes").value;
     let resultado = 0;
+
+    if (!number(valor)){
+        alert("o valor deve ser um numero.");
+        return
+    }
     for(let i = 1; i <= mes; i++){
         resultado = valor * (1+(juros/100));
         valor = resultado;
